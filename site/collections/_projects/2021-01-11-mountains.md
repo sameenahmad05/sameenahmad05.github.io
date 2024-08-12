@@ -1,8 +1,8 @@
 ---
 date: 2021-01-11 07:40:35 +0300
-title: Mountains
-subtitle: Photography
-image: '/images/project-4.jpg'
+title: UROP with Biomechatronics Lab
+subtitle: Electrical, Fabrication
+image: "/images/project-4.jpg"
 ---
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
