@@ -1,11 +1,11 @@
 ---
-date: 2021-01-05 05:20:35 +0300
-title: Myoelectric Arm
-subtitle: Mechatronics
-image: "/images/project-9.jpg"
+date: 2021-01-11 07:40:35 +0300
+title: Biomechatronics Lab UROP
+subtitle: Electrical, Fabrication
+image: "/images/project-4.jpg"
 ---
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
+....
 
 ![Palm trees](/images/image-example-3.jpg){: width="1200" height="900"}
 
